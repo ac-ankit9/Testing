@@ -1,0 +1,17 @@
+
+.nav-item:hover{
+    background-color: lightblue;
+    background-image: linear-gradient(to right, rgba(255,0,0,0),  rgb(184, 255, 103));
+}
+
+.navbar{
+    background-color: lightblue;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(184, 255, 103)); 
+    height: 60px;
+    width: 100%;
+    z-index: 1;
+}
+
+.logo{
+    margin: 0 auto;
+}

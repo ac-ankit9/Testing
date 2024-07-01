@@ -1,0 +1,12 @@
+.card{
+    background-image: linear-gradient(to right, rgba(240, 250, 196, 0),  rgb(234, 252, 214));
+    background-color: rgb(246, 246, 247);
+    padding-top: 60px;
+}
+
+
+
+a:hover{
+    transform: translateY(8px);
+}
+

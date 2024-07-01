@@ -1,0 +1,22 @@
+.pic{
+    margin: 0 auto;
+}
+
+.info{
+    margin: 100px auto;
+}
+
+.img{
+   display: flex;
+   justify-content: space-around; 
+}
+
+img{
+    margin-bottom: 20px;
+}
+
+.btm-section{
+    display: flex;
+    justify-content: space-between;
+    border: none;
+}
